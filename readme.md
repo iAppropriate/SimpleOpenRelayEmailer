@@ -1,1 +1,1 @@
-A Very Simple Open Mail-Relay Sender 
+# A Very Simple Open Mail-Relay Sender 
